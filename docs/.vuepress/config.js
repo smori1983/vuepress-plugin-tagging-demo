@@ -1,4 +1,9 @@
 module.exports = {
+  base: '/vuepress-plugin-tagging/',
+  dest: 'docs/.vuepress/dist',
+
+  title: 'VuePress Plugin Tagging Demo',
+
   locales: {
     '/': {
       lang: 'en-US',
