@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vuepress-plugin-tagging/',
+  base: '/vuepress-plugin-tagging-demo/',
   dest: 'docs/.vuepress/dist',
 
   title: 'VuePress Plugin Tagging Demo',
