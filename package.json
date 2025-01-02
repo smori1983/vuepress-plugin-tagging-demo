@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "vuepress-plugin-tagging": "github:smori1983/vuepress-plugin-tagging#master"
+    "vuepress-plugin-tagging": "^1.0.0"
   },
   "devDependencies": {
     "http-server": "^14.1.1",
